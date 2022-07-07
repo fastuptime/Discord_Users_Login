@@ -1,0 +1,4 @@
+2022-07-07 03:11:54 ➾ Program başladı. 
+2022-07-07 03:11:54 ➾ Yapımcı: Can 
+2022-07-07 03:11:54 ➾ GitHub: https://github.com/fastuptime 
+2022-07-07 03:11:54 ➾ xx tokeni geçersiz. Error: Error [TOKEN_INVALID]: An invalid token was provided. 
